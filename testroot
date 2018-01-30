@@ -1,0 +1,2 @@
+app_name = rabbit
+cli_args = '--error'
